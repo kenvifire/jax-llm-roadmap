@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# venv
+.venv/
+venv/
+env/
+
+# project data
+input.txt
+data/
+checkpoints/

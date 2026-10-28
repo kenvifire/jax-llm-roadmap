@@ -1,0 +1,7 @@
+jax
+flax>=0.11
+optax
+scikit-learn
+orbax-checkpoint
+grain
+tiktoken
